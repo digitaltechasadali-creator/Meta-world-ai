@@ -1,0 +1,7 @@
+{
+  "name": "Meta World 🌎 ai",
+  "description": "A comprehensive chatbot application showcasing the power of the Gemini API. Engage in text-based chats with various modes (Lite, Pro with Thinking, Search Grounding), generate and edit images, create videos with Veo, analyze multimedia content, and have real-time voice conversations with the Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
